@@ -1,0 +1,15 @@
+<mat-toolbar color="primary">
+  <span>Gym Registration</span>
+  <span class="example-spacer"></span>
+
+  <button routerLink="/list" mat-raised-button color="warn">
+    View Enquiries
+  </button>
+</mat-toolbar>
+
+<div class="container mt-4"><router-outlet></router-outlet></div>
+
+<!-- used to show the success toast message -->
+<lib-ng-toast></lib-ng-toast>
+<!-- used to show the message confirmation -->
+<ng-confirm></ng-confirm>

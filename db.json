@@ -1,0 +1,44 @@
+{
+  "enquery": [
+    {
+      "firstName": "Kunal",
+      "lastName": "Mohite",
+      "email": "kunal@gmail.com",
+      "mobile": "1234567890",
+      "weight": "68",
+      "height": "5.10",
+      "bmi": 0.19607843137254902,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Building Lean Muscles",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enqueryDate": "2023-04-25T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Dummy",
+      "lastName": "User",
+      "email": "dummy@gmail.com",
+      "mobile": "1234567890",
+      "weight": "56",
+      "height": "5.7",
+      "bmi": 0.1538935056940597,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enqueryDate": "2023-04-25T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
